@@ -23,11 +23,11 @@ repository               : "jcantoroc/jcantoroc.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Joel Cantó Roche"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Student"
+  location         : "Tkaronto // Toronto, Ontario, Canada"
+  employer         : "University of Toronto"
   uri              : # URL
   email            : "none@example.org" 
 
