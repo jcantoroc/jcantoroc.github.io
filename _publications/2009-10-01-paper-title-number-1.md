@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "The impact of party competition on LGBTI+ rights: Evidence from Spanish autonomous regions (1990–2022)"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-03-23-paper-title-number-1
+excerpt: 'Political competition accelerates the enactment of lesbian, gay, bisexual, trans*, and intersexual rights (LGBTI+) due to the dynamic, rational behavior of mainstream parties across the political aisle to adapt to the sociopolitical environment. We argue that LGBTI+ social movements capitalize on median voter shifts combined with the rising pressure of ideologically close challenger parties to enact legislation. To examine this argument, we employ quantitative event history analysis with a unique dataset with measures for social movement, institutional, political, and sociocultural dimensions across 33 years in Spanish subnational arenas. We find that rising leftist and liberal contenders challenging dominant center-left and center-right parties, respectively, widen the opportunity political structure of LGBTI+ organizations. Ultimately, rising political fragmentation in a multiparty, multidimensional party system turns both left and right mainstream parties into allies of LGBTI+ organizations, which propose new legislation, due to political platforms seeking to preserve and enhance their electoral base.'
+date: 2024-03-23
+venue: 'Politics and Policy'
+paperurl: 'https://doi.org/10.1111/polp.12595'
+citation: 'Cantó, J. & Arregui, J. (2024). The impact of party competition on LGBTI+ rights - Evidence from Spanish autonomous regions (1990 - 2022). Politics and Policy. https://doi.org/10.1111/polp.12595.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
