@@ -2,7 +2,7 @@
 title: "POL222H1F: Introduction to Quantitative Reasoning I (Fall 2024)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-spring-teaching-2
+permalink: /teaching/2014-spring-teaching-2
 venue: "University of Toronto, Department of Political Science"
 ---
 
