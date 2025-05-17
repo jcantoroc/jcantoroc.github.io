@@ -1,5 +1,5 @@
 ---
-title: "The impact of party competition on LGBTI+ rights: Evidence from Spanish autonomous regions (1990–2022)"
+title: "The impact of party competition on LGBTI+ rights Evidence from Spanish autonomous regions (1990–2022)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-23-paper-title-number-1
