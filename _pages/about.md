@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="author" content="Joel">
-  <meta name="google-site-verification" content="YZPSd91DNd-5JBgC_0ibOZvnnV0yvTj-8UEyF5301w4" />
+  <meta name="author" content="Joel"/>
+<meta name="google-site-verification" content="YZPSd91DNd-5JBgC_0ibOZvnnV0yvTj-8UEyF5301w4" />
   <link rel="canonical" href="/" />
   <!-- Redirects from /about/ and /about.html should be handled by your server/config -->
 </head>
