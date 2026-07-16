@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Teaching</title>
-</head>
 <body>
 
   <h2>Course Instructor</h2>
