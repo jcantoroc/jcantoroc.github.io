@@ -9,7 +9,7 @@ published: false
   <h2>Course Instructor</h2>
   <ul>
     <li>
-     POL333: Queer International Relations (Fall 2025), University of Toronto, Ontario, Canada.
+     POL338: Queer International Relations (Fall 2025), University of Toronto, Ontario, Canada.
     </li>
   </ul>
 
