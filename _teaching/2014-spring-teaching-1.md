@@ -14,7 +14,9 @@ published: false
   </ul>
 
   <h2>Teaching Assistantships</h2>
+  
   <ul>
+      <li> Data Visualisation in the Social Sciences (Fall 2026), University of Toronto, Ontario, Canada.</li>
     <li>
       Methods in Political Science (Fall 2025, Spring 2026, and Summer 2026), University of Toronto, Ontario, Canada.
     </li>
