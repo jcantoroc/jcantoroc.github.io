@@ -16,9 +16,9 @@ published: false
   <h2>Teaching Assistantships</h2>
   
   <ul>
-      <li> Data Visualisation in the Social Sciences (Fall 2026), University of Toronto, Ontario, Canada.</li>
+      <li> POL342: Data Visualisation in the Social Sciences (Fall 2026), University of Toronto, Ontario, Canada.</li>
     <li>
-      Methods in Political Science (Fall 2025, Spring 2026, and Summer 2026), University of Toronto, Ontario, Canada.
+      POL232/POL233: Political Science Methods I and II (Fall 2025, Spring 2026, and Summer 2026), University of Toronto, Ontario, Canada.
     </li>
     <li>
       POL222H1F: Introduction to Quantitative Reasoning I (Fall 2023, Fall 2024, and Fall 2026), University of Toronto, Ontario, Canada.
